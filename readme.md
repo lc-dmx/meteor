@@ -1,5 +1,7 @@
-*[演示1](http://8.lcdmx.applinzi.com/)
-*[演示2](http://9.lcdmx.applinzi.com/)
+[演示1](http://8.lcdmx.applinzi.com/)
+
+[演示2](http://9.lcdmx.applinzi.com/)
+
 主要借助于css实现效果
 
 @keyframes、animation及after伪元素的使用
